@@ -1,0 +1,8 @@
+bool ok = false;
+float numero=0;
+while (ok==false){
+Console.WriteLine ("Escriu un numero");
+var num = Console.ReadLine();
+ok = float.TryParse(num , out numero);
+}
+Console.WriteLine(numero*2);

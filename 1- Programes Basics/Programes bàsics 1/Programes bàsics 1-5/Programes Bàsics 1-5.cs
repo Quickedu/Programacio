@@ -1,0 +1,10 @@
+Console.WriteLine("Nota pràctiques de l'alumne (30% de la nota):");
+var notaPractiques = Console.ReadLine ();
+Console.WriteLine("Nota examen de l'alumnee (70% de la nota):");
+var notaExamen = Console.ReadLine ();
+decimal notaPdec = decimal.Parse(notaPractiques);
+decimal notaEdec = decimal.Parse(notaExamen);
+decimal notaPbe = notaPdec*30/100;
+decimal notaEbe = notaEdec*70/100;
+decimal notaS = Math.Round(notaPbe+notaEbe);
+Console.WriteLine($"La nota final és {notaPbe+notaEbe} o sigui, un {notaS}");
