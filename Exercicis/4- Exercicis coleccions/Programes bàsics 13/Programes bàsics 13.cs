@@ -55,7 +55,7 @@ void print (Dictionary <string, int> joguines, List <string> cancelacions){
     Console.WriteLine("");
     Console.WriteLine("Cancelacions:");
     for (int ii=0;ii<cancelacions.Count;ii++){
-        Console.WriteLine($"{ii+1}- {cancelacions[ii]}");
+        Console.WriteLine($"{ii+1} - {cancelacions[ii]}");
     }
     Console.WriteLine($"Total Cancelacions: {cancelacions.Count}");
     return;
