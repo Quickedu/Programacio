@@ -112,3 +112,5 @@ int obtenirdistancies (string [] document , int marca , bool s){
     var distancia = mesgran-mespetit;
     return distancia;
 }
+
+//Copyright to github.com/Quickedu

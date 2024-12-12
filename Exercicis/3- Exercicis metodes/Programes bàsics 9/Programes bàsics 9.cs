@@ -51,3 +51,5 @@ int [] enviartropes (){
     }
     return tropes;
 }
+
+//Copyright to github.com/Quickedu

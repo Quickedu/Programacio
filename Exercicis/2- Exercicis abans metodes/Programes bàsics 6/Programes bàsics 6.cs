@@ -17,21 +17,15 @@ int [,] diana = new [,] {
 };
 Console.WriteLine("Escriviu els vostres tiros ");
 while(!end && (p1 <= 50 || p2 <= 50)){
-        int i=1; //nou codi
+        int i=1;
         p1 = p1 + tirada(rnd,diana,i);
         Console.WriteLine($"{p1}");
 
-        i=2; //nou codi
+        i=2;
         p2 = p2 + tirada(rnd,diana,i);
         Console.WriteLine($"{p2}");
 
-if(p1>p2 && p1>=50){
-    end = true;
-    Console.WriteLine($"Guanya el jugador 1 amb una puntuació de {p1} en contra de {p2} del jugador 2");
-    }else if(p2>p1 && p2>=50){
-        end = true;
-        Console.WriteLine($"Guanya el jugador 2 amb una puntuació de {p2} en contra de {p1} del jugador 1");
-        }
+
 }
 
 int tirada (Random rnd, int [,] diana, int i){
@@ -41,6 +35,15 @@ int tirada (Random rnd, int [,] diana, int i){
     return diana [r1, r2];
 }
 
+void final (int p1, int p2){
+    if(p1>p2 && p1>=50){
+    end = true;
+    Console.WriteLine($"Guanya el jugador 1 amb una puntuació de {p1} en contra de {p2} del jugador 2");
+    }else if(p2>p1 && p2>=50){
+        end = true;
+        Console.WriteLine($"Guanya el jugador 2 amb una puntuació de {p2} en contra de {p1} del jugador 1");
+        }
+}
 
 
 // Random rnd= new();
@@ -80,3 +83,5 @@ int tirada (Random rnd, int [,] diana, int i){
 //         Console.WriteLine($"Guanya el jugador 2 amb una puntuació de {p2} en contra de {p1} del jugador 1");
 //         }
 // }
+
+//Copyright to github.com/Quickedu
