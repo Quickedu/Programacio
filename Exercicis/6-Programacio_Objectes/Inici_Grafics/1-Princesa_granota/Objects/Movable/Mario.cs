@@ -28,7 +28,7 @@ public class Mario{
         gfx.DrawImage(img,position);
     }
 
-    public void mou (Rectangle window){
+    public void mou (Rectangle rect){
         var newpos = new Rectangle(position, img.Size);
         if (Input.CheckKey(Key.Right, ButtonState.Down)){
             newpos.X += velocitat;
@@ -42,7 +42,7 @@ public class Mario{
         if (Input.CheckKey(Key.Down, ButtonState.Down)){
             newpos.Y += velocitat;
         }
-        if (window.Contains(newpos)){
+        if (rect.Contains(newpos)){
             position.X = newpos.X;
             position.Y = newpos.Y;
         }

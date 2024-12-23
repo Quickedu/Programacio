@@ -18,58 +18,35 @@ public class Cloud {
         velocitat = rnd.Next(1,4);
     }
 
-    public void spawn(GraphicsContext gfx, Window window, Mario mario){
-        posicio(window,mario);
+    public void spawn(GraphicsContext gfx){
         gfx.DrawImage(img,position);
     }
 
-    public void posicio(Window window, Mario mario){
-        var x = 0;
-        var y = 0;
-        bool ok = false;
-        while (!ok){
-            x = rnd.Next(10,window.Width-10);
-            if (x<(window.Width-mario.img.Width)/2 && x>window.Width+mario.img.Width){
-                ok = true;
-        }
-        while (ok){
-            y = rnd.Next(10,window.Height-10);
-            if (y<(window.Height-mario.img.Height)/2 && y>window.Height+mario.img.Height){
-                ok = false;
-            }
-        }
-        position = (x,y);
-        }   
-    }
-
-    public void move(Rectangle window){
+    public void move(Rectangle rect){
         var newpos = new Rectangle(position,img.Size);
         newpos.X = rnd.Next(-5,6);
         newpos.Y = rnd.Next(-5,6);
-        if (window.Contains(newpos)){
-            position.X=newpos.X;
-            position.Y=newpos.Y;
+        if (rect.Contains(newpos)){
+            position.X+=(newpos.X);
+            position.Y+=(newpos.Y);
         }
     }
     public Vector pos(){
         return position;
     }
-    public void reposiciona(Window window, Mario mario){
+    public void reposiciona(Window window, Mario mario, Cloud cloud){
         var x = 0;
         var y = 0;
-        bool ok = false;
-        while (!ok){
-            x = rnd.Next(10,window.Width-10);
-            if (x<(window.Width-mario.img.Width)/2 && x>window.Width+mario.img.Width){
-                ok = true;
-        }
-        while (ok){
-            y = rnd.Next(10,window.Height-10);
-            if (y<(window.Height-mario.img.Height)/2 && y>window.Height+mario.img.Height){
-                ok = false;
-            }
-        }
+        x = rnd.Next(100,window.Width-100);
+        y = rnd.Next(100,window.Height-100);
         position = (x,y);
-        }  
+    }
+    public void posiciorandom (Window window, Mario mario, Cloud cloud){
+        var x = 0;
+        var y = 0;
+        x = rnd.Next(100,window.Width-100);
+        y = rnd.Next(100,window.Height-100);
+        position = (x,y);
     }
 }
+

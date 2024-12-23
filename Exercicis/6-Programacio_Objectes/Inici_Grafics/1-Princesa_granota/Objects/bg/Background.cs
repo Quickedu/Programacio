@@ -2,16 +2,15 @@ using princesa;
 namespace princesa;
 using Heirloom.Desktop;
 using Heirloom;
-using System.Security.Cryptography.X509Certificates;
 
 public class BG {
     private Rectangle posicio;
     private Vector position;
     private Image img;
 
-    public BG (Rectangle position , string imatge)
+    public BG (Rectangle pos , string imatge)
     {
-        posicio = position;
+        posicio = pos;
         img = new Image(imatge);
     }
     public Rectangle imghitbox (Window window){
