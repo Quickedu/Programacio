@@ -46,12 +46,9 @@ class Program
         if(!end){
             rect = new Rectangle(new Vector (0,0), window.Size);
             bckground.background(gfx,rect);
-            for (int i=0;i<nuvols.Count();i++){
-                nuvols[i].move(rect);
-                nuvols[i].spawn(gfx);
-            }
             mario.mou(rect);
             foreach (var cloud in nuvols){
+                cloud.move(rect);
                 if (mario.tocar(cloud)){
                     if (cloud.peach){
                         end=true;
@@ -67,6 +64,7 @@ class Program
                         cloud.reposiciona(window, mario, cloud);
                     }
                 }
+                cloud.spawn(gfx);
             }
             mario.spawn(gfx);
             var fps = gfx.CurrentFPS;

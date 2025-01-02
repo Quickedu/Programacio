@@ -1,0 +1,63 @@
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\bin\Debug\net8.0\app.exe
+C:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\bin\Debug\net8.0\app.deps.json
+C:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\bin\Debug\net8.0\app.runtimeconfig.json
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\bin\Debug\net8.0\app.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\bin\Debug\net8.0\app.pdb
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\obj\Debug\net8.0\app.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\obj\Debug\net8.0\refint\app.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\obj\Debug\net8.0\app.pdb
+C:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\app\obj\Debug\net8.0\ref\app.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Programes bàsics\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Programes bàsics\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Programes bàsics\obj\Debug\net8.0\app.AssemblyInfo.cs
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Programes bàsics\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Programes bàsics\obj\Debug\net8.0\app.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Programes bàsics\obj\Debug\net8.0\refint\app.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Programes bàsics\obj\Debug\net8.0\app.pdb
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\bin\Debug\net8.0\app.exe
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\bin\Debug\net8.0\app.deps.json
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\bin\Debug\net8.0\app.runtimeconfig.json
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\bin\Debug\net8.0\app.dll
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\bin\Debug\net8.0\app.pdb
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\obj\Debug\net8.0\app.dll
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\obj\Debug\net8.0\refint\app.dll
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\obj\Debug\net8.0\app.pdb
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\DAW\Programació\JO-EL Competició\003 - Bombons\obj\Debug\net8.0\ref\app.dll
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\bin\Debug\net8.0\app.exe
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\bin\Debug\net8.0\app.deps.json
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\bin\Debug\net8.0\app.runtimeconfig.json
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\bin\Debug\net8.0\app.dll
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\bin\Debug\net8.0\app.pdb
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\obj\Debug\net8.0\app.dll
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\obj\Debug\net8.0\refint\app.dll
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\obj\Debug\net8.0\app.pdb
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\DAW\Programació\JO-EL Competició\005 - Escales Graus Comerciants\obj\Debug\net8.0\ref\app.dll
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\bin\Debug\net8.0\app.exe
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\bin\Debug\net8.0\app.deps.json
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\bin\Debug\net8.0\app.runtimeconfig.json
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\bin\Debug\net8.0\app.dll
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\bin\Debug\net8.0\app.pdb
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\obj\Debug\net8.0\app.AssemblyInfo.cs
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\obj\Debug\net8.0\app.dll
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\obj\Debug\net8.0\refint\app.dll
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\obj\Debug\net8.0\app.pdb
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\obj\Debug\net8.0\app.genruntimeconfig.cache
+c:\DAW\Programació\JO-EL Competició\008 - Operadors de relació\obj\Debug\net8.0\ref\app.dll
