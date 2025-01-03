@@ -14,7 +14,7 @@ public class Cloud {
     public Cloud(bool ok)
     {
         peach=ok;
-        img = new Image("C:/DAW/Programació/Exercicis/6-Programacio_Objectes/Inici_Grafics/1-Princesa_granota/img/Cloud.png");
+        img = new Image("C:/Users/eduar/Coses Escriptori/Estudis/DAW Cendrassos/Programació/Backup/Exercicis/6-Programacio_Objectes/Inici_Grafics/1-Princesa_granota/img/Cloud.png");
         velocitat = rnd.Next(1,4);
     }
 
@@ -24,8 +24,8 @@ public class Cloud {
 
     public void move(Rectangle rect){
         var newpos = new Rectangle(position,img.Size);
-        newpos.X = rnd.Next(-5,6);
-        newpos.Y = rnd.Next(-5,6);
+        newpos.X = rnd.Next(-3,3);
+        newpos.Y = rnd.Next(-3,3);
         if (rect.Contains(newpos)){
             position.X+=(newpos.X);
             position.Y+=(newpos.Y);

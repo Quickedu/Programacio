@@ -16,8 +16,9 @@ public class BG {
     public Rectangle imghitbox (Window window){
         return new Rectangle((0,0),img.Size);
     }
-    public void background (GraphicsContext gfx , Rectangle rect){
-    gfx.DrawImage(img, posicio);
+    public void background (GraphicsContext gfx, Rectangle rect){
+        posicio = rect;
+        gfx.DrawImage(img, posicio);
     }
     public void center(GraphicsContext gfx , Window window){
         var x = (window.Width-img.Width)/2;

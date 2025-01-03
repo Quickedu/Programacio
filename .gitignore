@@ -1,18 +1,1 @@
-*.zip
-*.csproj
-*.sln
-*.exe
-*.json
-*.props
-*.targets
-*.cache
-*.pdb
-*.txt
-*.dll
-*.AssemblyAttributes.cs
-*.AssemblyInfo.cs
-*.editorconfig
-*.g.cs
 /x-Comprimits
-/Exercicis/Plantilla_C+V
-/Exercicis/3- Exercicis metodes/Programes bàsics 9 copy
