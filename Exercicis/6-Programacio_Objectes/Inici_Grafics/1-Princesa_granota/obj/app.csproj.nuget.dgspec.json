@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eduar\\Coses Escriptori\\Estudis\\DAW Cendrassos\\Programació\\Backup\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj": {}
+    "C:\\Users\\eduar\\Coses Escriptori\\Estudis\\DAW Cendrassos\\Programació\\Backup\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eduar\\Coses Escriptori\\Estudis\\DAW Cendrassos\\Programació\\Backup\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj": {
+    "C:\\Users\\eduar\\Coses Escriptori\\Estudis\\DAW Cendrassos\\Programació\\Backup\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eduar\\Coses Escriptori\\Estudis\\DAW Cendrassos\\Programació\\Backup\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Coses Escriptori\\Estudis\\DAW Cendrassos\\Programació\\Backup\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
         "projectName": "app",
-        "projectPath": "c:\\Users\\eduar\\Coses Escriptori\\Estudis\\DAW Cendrassos\\Programació\\Backup\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
+        "projectPath": "C:\\Users\\eduar\\Coses Escriptori\\Estudis\\DAW Cendrassos\\Programació\\Backup\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eduar\\Coses Escriptori\\Estudis\\DAW Cendrassos\\Programació\\Backup\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\Coses Escriptori\\Estudis\\DAW Cendrassos\\Programació\\Backup\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
