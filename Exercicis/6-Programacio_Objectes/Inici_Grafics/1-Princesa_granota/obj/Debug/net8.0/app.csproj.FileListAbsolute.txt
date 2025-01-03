@@ -359,3 +359,34 @@ c:\DAW\Programació\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_gr
 c:\DAW\Programació\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.pdb
 c:\DAW\Programació\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.genruntimeconfig.cache
 c:\DAW\Programació\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\ref\app.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\app.exe
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\img\BG.png
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\img\KingBoo.png
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\img\Mario.png
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\img\Peach.png
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\app.deps.json
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\app.runtimeconfig.json
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\app.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\app.pdb
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\Heirloom.Core.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\Heirloom.Desktop.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\Heirloom.MiniAudio.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\Heirloom.OpenGLES.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw3.so
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\runtimes\osx-x64\native\libglfw3.dylib
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\runtimes\win-x64\native\glfw3.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\runtimes\linux-x64\native\libminiaudio.so
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\runtimes\osx-x64\native\libminiaudio.dylib
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\bin\Debug\net8.0\runtimes\win-x64\native\miniaudio.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.csproj.AssemblyReference.cache
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.AssemblyInfo.cs
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.sourcelink.json
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.csproj.Up2Date
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\refint\app.dll
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.pdb
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\app.genruntimeconfig.cache
+c:\Users\eduar\Coses Escriptori\Estudis\DAW Cendrassos\Programació\Backup\Exercicis\6-Programacio_Objectes\Inici_Grafics\1-Princesa_granota\obj\Debug\net8.0\ref\app.dll
