@@ -25,8 +25,8 @@ class Program
             window.Maximize();
             mario = new Mario();
             mario.inici(window);
-            peach = new BG (rect,"C:/DAW/Programació/Exercicis/6-Programacio_Objectes/Inici_Grafics/1-Princesa_granota/img/Peach.png");
-            boo = new BG (rect,"C:/DAW/Programació/Exercicis/6-Programacio_Objectes/Inici_Grafics/1-Princesa_granota/img/KingBoo.png");
+            peach = new BG (rect,"C:/Users/eduar/Coses Escriptori/Estudis/DAW Cendrassos/Programació/Backup/Exercicis/6-Programacio_Objectes/Inici_Grafics/1-Princesa_granota/img/Peach.png");
+            boo = new BG (rect,"C:/Users/eduar/Coses Escriptori/Estudis/DAW Cendrassos/Programació/Backup/Exercicis/6-Programacio_Objectes/Inici_Grafics/1-Princesa_granota/img/KingBoo.png");
             bool ok = true;
             for (int i=0 ; i<10 ; i++){
                 nuvols.Add(new Cloud (ok));
@@ -35,7 +35,7 @@ class Program
             for (int i=0 ; i<nuvols.Count() ; i++){
                 nuvols[i].posiciorandom(window,mario,nuvols[i]);
             }
-            bckground = new BG(rect,"C:/DAW/Programació/Exercicis/6-Programacio_Objectes/Inici_Grafics/1-Princesa_granota/img/BG.png");
+            bckground = new BG(rect,"C:/Users/eduar/Coses Escriptori/Estudis/DAW Cendrassos/Programació/Backup/Exercicis/6-Programacio_Objectes/Inici_Grafics/1-Princesa_granota/img/BG.png");
             end = false;
             var loop = GameLoop.Create(window.Graphics, OnUpdate);
             loop.Start();
@@ -44,14 +44,11 @@ class Program
 
     static void OnUpdate(GraphicsContext gfx , float dt){
         if(!end){
-            rect = new Rectangle(new Vector (0,0), window.Size);
+        rect = new Rectangle(new Vector (0,0), window.Size);
             bckground.background(gfx,rect);
-            for (int i=0;i<nuvols.Count();i++){
-                nuvols[i].move(rect);
-                nuvols[i].spawn(gfx);
-            }
             mario.mou(rect);
             foreach (var cloud in nuvols){
+                cloud.move(rect);
                 if (mario.tocar(cloud)){
                     if (cloud.peach){
                         end=true;
@@ -67,11 +64,13 @@ class Program
                         cloud.reposiciona(window, mario, cloud);
                     }
                 }
+                cloud.spawn(gfx);
             }
             mario.spawn(gfx);
             var fps = gfx.CurrentFPS;
             var Sfps = Math.Round(fps).ToString();
             gfx.DrawText(Sfps,(15,8),Font.Default,30);
+            gfx.DrawText("HP: "+mario.hp,(15,38),Font.Default,30);
         } else {
             if (lose){
                 gfx.Clear(Color.White);
