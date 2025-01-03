@@ -70,7 +70,7 @@ class Program
             var fps = gfx.CurrentFPS;
             var Sfps = Math.Round(fps).ToString();
             gfx.DrawText(Sfps,(15,8),Font.Default,30);
-            gfx.DrawText("HP: "+mario.hp,(15,38),Font.Default,30);
+            gfx.DrawText($"HP: {mario.hp}",(15,38),Font.Default,30);
         } else {
             if (lose){
                 gfx.Clear(Color.White);
