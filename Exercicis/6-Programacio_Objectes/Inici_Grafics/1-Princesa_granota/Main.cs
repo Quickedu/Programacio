@@ -10,7 +10,7 @@ using Heirloom.Desktop;
 namespace princesa;
 class Program
 {
-    private static Window window;
+    private static Window window; 
     private static Mario mario;
     private static BG bckground;
     private static BG peach;
@@ -58,10 +58,9 @@ class Program
                             end=true;
                             lose=true;
                         }
+                        cloud.reposiciona(window, mario, cloud);
                         gfx.Clear(Color.White);
                         boo.center(gfx , window);
-                        Thread.Sleep(3000);
-                        cloud.reposiciona(window, mario, cloud);
                     }
                 }
                 cloud.spawn(gfx);
