@@ -23,12 +23,12 @@ public class Cloud {
     }
 
     public void move(Rectangle rect){
-        var newpos = new Rectangle(position,img.Size);
-        newpos.X = rnd.Next(-3,3);
-        newpos.Y = rnd.Next(-3,3);
+    var x = rnd.Next(-7, 8);
+    var y = rnd.Next(-7, 8);
+    var newpos = new Rectangle(position.X + x, position.Y + y, img.Width, img.Height);
         if (rect.Contains(newpos)){
-            position.X+=(newpos.X);
-            position.Y+=(newpos.Y);
+            position.X += x;
+            position.Y += y;
         }
     }
     public Vector pos(){
@@ -44,8 +44,10 @@ public class Cloud {
     public void posiciorandom (Window window, Mario mario, Cloud cloud){
         var x = 0;
         var y = 0;
-        x = rnd.Next(100,window.Width-100);
-        y = rnd.Next(100,window.Height-100);
+        do{
+            x = rnd.Next(100,window.Width-100);
+            y = rnd.Next(100,window.Height-100);
+        } while (mario.tocar(cloud));
         position = (x,y);
     }
 }
