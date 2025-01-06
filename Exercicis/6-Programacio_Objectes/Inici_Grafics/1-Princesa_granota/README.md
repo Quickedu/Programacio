@@ -8,10 +8,10 @@ Com que son uns segrestadors molt astuts, no es pot saber si un nuvol te la prin
 -------------------
 
 ### Controls
-- W -> Moure cap adalt
-- A -> Moure cap a l'esquerra
-- S -> Moure cap abaix
-- D -> Moure cap a la dreta
+- Up Arrow -> Moure cap adalt
+- Left Arrow -> Moure cap a l'esquerra
+- Down Arrow -> Moure cap abaix
+- Right Arrow -> Moure cap a la dreta
 -----------
 
 ### Personatges
