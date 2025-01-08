@@ -13,7 +13,7 @@ public class Mario{
 
     public Mario()
     {
-        img = new Image ("C:/Users/eduar/Coses Escriptori/Estudis/DAW Cendrassos/Programació/Backup/Exercicis/6-Programacio_Objectes/Inici_Grafics/1-Princesa_granota/img/Mario.png");
+        img = new Image ("C:/DAW/Programació/Exercicis/6-Programacio_Objectes/Inici_Grafics/1-Princesa_granota/img/Mario.png");
         velocitat = 5;
         hp = 8;
     }
