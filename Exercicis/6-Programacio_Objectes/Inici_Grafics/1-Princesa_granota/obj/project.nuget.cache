@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SY7tqCPkmFY=",
+  "dgSpecHash": "aQsUv+U71vY=",
   "success": true,
-  "projectFilePath": "c:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
+  "projectFilePath": "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eduard\\.nuget\\packages\\heirloom.core\\1.0.2-beta\\heirloom.core.1.0.2-beta.nupkg.sha512",
     "C:\\Users\\Eduard\\.nuget\\packages\\heirloom.desktop\\1.0.2-beta\\heirloom.desktop.1.0.2-beta.nupkg.sha512",

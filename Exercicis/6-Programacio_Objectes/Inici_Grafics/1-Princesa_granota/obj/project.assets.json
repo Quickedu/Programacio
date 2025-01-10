@@ -170,11 +170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
+      "projectUniqueName": "c:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
       "projectName": "app",
-      "projectPath": "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
+      "projectPath": "c:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
       "packagesPath": "C:\\Users\\Eduard\\.nuget\\packages\\",
-      "outputPath": "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\obj\\",
+      "outputPath": "c:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eduard\\AppData\\Roaming\\NuGet\\NuGet.Config"

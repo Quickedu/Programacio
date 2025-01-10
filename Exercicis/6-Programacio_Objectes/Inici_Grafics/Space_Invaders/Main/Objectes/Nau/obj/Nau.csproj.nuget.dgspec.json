@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj": {}
+    "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\Space_Invaders\\main\\Objectes\\Nau\\Nau.csproj": {}
   },
   "projects": {
-    "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj": {
+    "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\Space_Invaders\\main\\Objectes\\Nau\\Nau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
-        "projectName": "app",
-        "projectPath": "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\app.csproj",
+        "projectUniqueName": "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\Space_Invaders\\main\\Objectes\\Nau\\Nau.csproj",
+        "projectName": "Nau",
+        "projectPath": "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\Space_Invaders\\main\\Objectes\\Nau\\Nau.csproj",
         "packagesPath": "C:\\Users\\Eduard\\.nuget\\packages\\",
-        "outputPath": "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\1-Princesa_granota\\obj\\",
+        "outputPath": "C:\\DAW\\Programació\\Exercicis\\6-Programacio_Objectes\\Inici_Grafics\\Space_Invaders\\main\\Objectes\\Nau\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eduard\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,12 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Heirloom.Desktop": {
-              "target": "Package",
-              "version": "[1.0.2-beta, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

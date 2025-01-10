@@ -58,6 +58,9 @@ class Program
             case 2:
             final(gfx,dt);
             break;
+            default:
+            status = 0;
+            break;
         }
     }
     static void game(GraphicsContext gfx, float dt){
